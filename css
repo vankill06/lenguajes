@@ -1,0 +1,21 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: #18b918; background-image: url('nubef.jpg'); /* Imagen de fondo */
+    background-size: cover; 
+    background-position: center 20%; /* Centrar horizontalmente y al 50% verticalmente */
+    
+}
+/* parte del encabezado  */
+    h1 {
+        color: #fdf3f3;
+        text-align: center;
+        margin-top: 20px;
+        text-align: left;
+    }
+   
+
+header {
+    background-color:
